@@ -16,7 +16,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/bagheera30/continuous_deployment</url>
+      <url>https://maven.pkg.github.com/ridwan1302210076/testt</url>
     </repository>
   </distributionManagement>
   
